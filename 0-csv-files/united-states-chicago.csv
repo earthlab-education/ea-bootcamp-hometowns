@@ -1,2 +1,3 @@
-who (OPTIONS: cu-student; certificate-student; other), type, country, state, city, latitude, longitude
-certificate-student, place I've lived, USA, IL, Chicago,	41.881832, -87.623177
+who, type, country, state, city, latitude, longitude
+certificate-student, place I've lived, USA, IL, Chicago,41.881832, -87.623177
+professor,place I've lived,USA,IL,Chicago,41.881832,-87.623177
