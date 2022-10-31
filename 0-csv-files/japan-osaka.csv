@@ -1,2 +1,2 @@
-who (OPTIONS: cu-student; certificate-student; other), type, country, city, latitude, longitude
-certificate-student,place-I-love,Japan,Osaka,39.6937,135.5023
+who (OPTIONS: cu-student; certificate-student; other), type, country, state, city, latitude, longitude
+certificate-student,place-i've-lived,United States,Wyoming,Moose,43.6558,110.7183
