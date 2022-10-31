@@ -1,2 +1,3 @@
 who (OPTIONS: cu-student; certificate-student; other), type, country, state, city, latitude, longitude
-cu-student,place-I've-lived,USA,GA,Atlanta,33.749,84.388
+cu-student,place-I've-lived,USA,GA,Atlanta,33.749,-84.388
+earthdatascience.org student,where I live now,united states,georgia,Atlanta,33.749,-84.388
