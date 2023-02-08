@@ -1,2 +1,2 @@
-who (OPTIONS: cu-student; certificate-student; other), type, country, state, city, latitude, longitude
-certificate-student, place I live now, US, OR, Portland, 45.5051° N, 122.6750° W
+who,type,country,state,city,latitude,longitude
+cu-student,place I've lived,USA,OR,Portland,45.5152,-122.6784
