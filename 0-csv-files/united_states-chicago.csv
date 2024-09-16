@@ -1,2 +1,2 @@
-who, type, country, state, city, latitude, longitude
-other, place I've lived, United States, Illinois, Chicago, 41.8781° N, 87.6298° W
+who (OPTIONS: cu-student; certificate-student; other), type, country, state, city, latitude, longitude
+sti-student,places I've lived,USA,IL,Chicago,41.882685,-87.623008
